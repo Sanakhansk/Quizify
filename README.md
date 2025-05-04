@@ -14,3 +14,5 @@ Welcome to Quizify – an interactive and engaging quiz application built with p
 🔹 HTML – Structuring the web pages
 🔹 CSS – Styling and enhancing the UI
 🔹 JavaScript – Adding dynamic interactivity
+
+https://roadmap.sh/projects/quiz-app
